@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 182cd195a28310e479cddf7ff82822f8, type: 3}
+  m_Name: LootLockerConfig
+  m_EditorClassIdentifier: 
+  apiKey: prod_2096924c1ca442499599ec6408b7c603
+  token: ef4d06c781d5afbab96091da0c210ba383729f51
+  adminToken: 
+  refreshToken: 
+  domainKey: uyj8hmc1
+  gameID: 0
+  game_version: 1.0.0.0
+  deviceID: 212796df-acb2-4488-bd6a-5406c05ee7c5
+  platform: 4
+  developmentMode: 1
+  url: https://api.lootlocker.io/v1
+  adminUrl: https://uyj8hmc1.api.lootlocker.io/admin
+  playerUrl: https://uyj8hmc1.api.lootlocker.io/player
+  userUrl: https://uyj8hmc1.api.lootlocker.io/game
+  baseUrl: https://uyj8hmc1.api.lootlocker.io
+  currentDebugLevel: 0
+  allowTokenRefresh: 1
